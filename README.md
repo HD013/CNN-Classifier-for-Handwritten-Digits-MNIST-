@@ -14,6 +14,9 @@ The **MNIST dataset** consists of **60,000 grayscale images** (28x28 pixels) of 
 Despite its simplicity, MNIST is a **benchmark dataset** in deep learning, often used for testing new neural network architectures.  
 CNNs are particularly effective for MNIST due to their ability to learn spatial hierarchies in image data.  
 
+<br>
+
+
 This project aims to:  
 ✔ Train a **CNN from scratch** on MNIST  
 ✔ Optimize the model for **high accuracy** and **fast convergence**  
