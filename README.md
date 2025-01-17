@@ -1,4 +1,4 @@
-# CNN-Image-Classification-improved-MNIST / CNN Classifier for Handwritten Digits (MNIST)  
+# CNN Classifier for Handwritten Digits (MNIST)  
 
 <br>
 
