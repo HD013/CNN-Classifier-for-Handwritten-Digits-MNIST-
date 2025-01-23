@@ -4,7 +4,8 @@
 
 ## 🪅📌 Project Overview  
 This project implements a **Convolutional Neural Network (CNN)** to classify handwritten digits from the **MNIST dataset** with high accuracy.  
-CNNs are widely used for image recognition tasks due to their ability to capture spatial hierarchies in data.  
+CNNs are widely used for image recognition tasks due to their ability to capture spatial hierarchies in data.
+<br>
 This repository provides the full pipeline for training, evaluating, and visualizing CNN performance on MNIST.  
 
 ---
