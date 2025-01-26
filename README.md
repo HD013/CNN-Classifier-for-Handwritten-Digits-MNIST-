@@ -11,6 +11,7 @@ This repository provides the full pipeline for training, evaluating, and visuali
 
 ---
 
+
 ## 🐅📚 Background & Motivation  
 The **MNIST dataset** consists of **60,000 grayscale images** (28x28 pixels) of handwritten digits (0-9).  
 Despite its simplicity, MNIST is a **benchmark dataset** in deep learning, often used for testing new neural network architectures.  
